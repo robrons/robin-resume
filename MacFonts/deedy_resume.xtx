@@ -111,7 +111,7 @@ Portfolio://  \href{http://robrons96.github.io}{\bf robrons.github.io} \\
 
 \section{Coursework}
 \subsection{Undergraduate}
-Structures and Algorithms
+Structures and Algorithms \\
 Operating Systems \\
 Intro. to Artificial Intelligence \\
 Bioinformatics \\
@@ -126,10 +126,10 @@ Bioinformatics \\
 \location{Proficient:}
 Java \textbullet{} Python \textbullet{} CSS \textbullet{} HTML \\
 \location{Familiar:}
-C \textbullet{} C++ \textbullet{} Assembly \textbullet{} JavaScript \\
+C \textbullet{} C++ \textbullet{} Assembly \textbullet{} JavaScript \textbullet{} LaTeX \\
 \location{Frameworks and tools:}
 iOS \textbullet{} Android \textbullet{} MySQL
-\textbullet{} ReactJS \textbullet{} Answer Set Programming \textbullet{} MySQL
+\textbullet{} ReactJS \textbullet{} Unix \textbullet{} MongoDB
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -150,6 +150,12 @@ iOS \textbullet{} Android \textbullet{} MySQL
 \runsubsection{Texas Tech HPCC}
 \descript{| Software Engineer }
 \location{Jan 2018 - Present | Lubbock, TX}
+\vspace{\topsep}
+\begin{tightemize}
+\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.
+\item I created the Meme generator and more in PHP and Shell.
+\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
+\end{tightemize}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -160,8 +166,9 @@ iOS \textbullet{} Android \textbullet{} MySQL
 \runsubsection{TTU Biological Sciences Department}
 \descript{| Researcher}
 \location{May 2017 – Present | Lubbock, TX}
-Working with \textbf{\href{https://amvbrown.com/}{Prof. Amanda M.V. Brown}} to create \textbf{DNAngler}, a tool which  learns from large scale user preference feedback to plan robot trajectories in human environments.  
+Working with \textbf{\href{https://amvbrown.com/}{Prof. Amanda M.V. Brown}} to create \textbf{DNAngler}, a Java pipeline used to iteratively improve phasing of strains from complex cellular assemblages, allowing users to measure evolutionary forces and predict trajectories of infectious diseases. 
 \sectionsep
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PROJECTS
