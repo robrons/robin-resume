@@ -129,7 +129,7 @@ Java \textbullet{} Python \textbullet{} CSS \textbullet{} HTML \\
 C \textbullet{} C++ \textbullet{} Assembly \textbullet{} JavaScript \textbullet{} LaTeX \textbullet{} Bash \\
 \location{Frameworks and tools:}
 iOS \textbullet{} Android \textbullet{} MySQL
-\textbullet{} ReactJS \textbullet{} Unix \textbullet{} MongoDB
+\textbullet{} ReactJS \textbullet{} Unix \textbullet{} MongoDB \textbullet{} REST 
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -152,9 +152,9 @@ iOS \textbullet{} Android \textbullet{} MySQL
 \location{Jan 2018 - Present | Lubbock, TX}
 \vspace{\topsep}
 \begin{tightemize}
-\item Incremental development of a Python-based API driven test automation tool for \textbf{\href{https://redfish.dmtf.org/about}{Redfish®}} 
-\item Developed a caching mechanism to aggregate data from Hadoop HDFS using Apache Spark and Cloudera Impala, resulting in a ~5x speed improvement
-over the existing Pig/Hive/Oozie pipeline.
+\item Incremental development of a Python-based, API-driven test automation tool for \textbf{\href{https://redfish.dmtf.org/about}{Redfish®}} 
+\item Developed a caching mechanism to store HTTP GET requests using JSON serialization, resulting in a $\approx$ 50x speed improvement
+over the existing mechanism 
 \item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
 \end{tightemize}
 \sectionsep
