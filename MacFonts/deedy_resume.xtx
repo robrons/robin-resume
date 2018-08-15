@@ -126,7 +126,7 @@ Bioinformatics \\
 \location{Proficient:}
 Java \textbullet{} Python \textbullet{} CSS \textbullet{} HTML \\
 \location{Familiar:}
-C \textbullet{} C++ \textbullet{} Assembly \textbullet{} JavaScript \textbullet{} LaTeX \\
+C \textbullet{} C++ \textbullet{} Assembly \textbullet{} JavaScript \textbullet{} LaTeX \textbullet{} Bash \\
 \location{Frameworks and tools:}
 iOS \textbullet{} Android \textbullet{} MySQL
 \textbullet{} ReactJS \textbullet{} Unix \textbullet{} MongoDB
@@ -152,8 +152,9 @@ iOS \textbullet{} Android \textbullet{} MySQL
 \location{Jan 2018 - Present | Lubbock, TX}
 \vspace{\topsep}
 \begin{tightemize}
-\item Phabricator is used daily by Facebook, Dropbox, Quora, Asana and more.
-\item I created the Meme generator and more in PHP and Shell.
+\item Incremental development of a Python-based API driven test automation tool for \textbf{\href{https://redfish.dmtf.org/about}{Redfish®}} 
+\item Developed a caching mechanism to aggregate data from Hadoop HDFS using Apache Spark and Cloudera Impala, resulting in a ~5x speed improvement
+over the existing Pig/Hive/Oozie pipeline.
 \item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
 \end{tightemize}
 \sectionsep
