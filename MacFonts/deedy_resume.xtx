@@ -128,8 +128,8 @@ Java \textbullet{} Python \textbullet{} CSS \textbullet{} HTML \\
 \location{Familiar:}
 C \textbullet{} C++ \textbullet{} Assembly \textbullet{} JavaScript \textbullet{} LaTeX \textbullet{} Bash \\
 \location{Frameworks and tools:}
-iOS \textbullet{} Android \textbullet{} MySQL
-\textbullet{} ReactJS \textbullet{} Unix \textbullet{} MongoDB \textbullet{} REST 
+Android \textbullet{} MySQL
+\textbullet{} ReactJS \textbullet{} Unix \textbullet{} MongoDB \textbullet{} REST \textbullet{} Redux
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -154,8 +154,8 @@ iOS \textbullet{} Android \textbullet{} MySQL
 \begin{tightemize}
 \item Incremental development of a Python-based, API-driven test automation tool for \textbf{\href{https://redfish.dmtf.org/about}{Redfish®}} 
 \item Developed a caching mechanism to store HTTP GET requests using JSON serialization, resulting in a $\approx$ 50x speed improvement
-over the existing mechanism 
-\item Led a team from MIT, Cornell, IC London and UHelsinki for the project.
+over the existing tool 
+\item Rebuilt the tool's log representation feature using Angular and Material Design, which led to the easier identification of assertion failures   
 \end{tightemize}
 \sectionsep
 
