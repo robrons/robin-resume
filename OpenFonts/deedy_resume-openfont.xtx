@@ -192,7 +192,7 @@ s, allowing users to measure evolutionary forces and predict trajectories of inf
 \location {}
 \begin{tightemize}
 \item Queried  Socrata Open Data API on free public WiFi coordinates, resulting in a 30\% increase in tracking in comparison to current standards.
-\item Used websockets for real time monitoring of the temperature register by the Raspberry Pi device. 
+\item Implemented bucketing to find the nearest hotspots along a fixed radius based the users location. 
 \item Utilized ReactJS and Redux for building the Front-end side of the web application in a team of 4. 
 \end{tightemize}
 \sectionsep
