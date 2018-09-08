@@ -192,7 +192,7 @@ s, allowing users to measure evolutionary forces and predict trajectories of inf
 \location {}
 \begin{tightemize}
 \item Queried  Socrata Open Data API on free public WiFi coordinates, resulting in a 30\% increase in tracking in comparison to current standards.
-\item Implemented Bucketing to find the nearest hotspots along a 5 mile radius based on the users location. 
+\item Implemented Bucketing to find the nearest hotspots along a 5 mile radius based on GPS data. 
 \end{tightemize}
 \sectionsep
 
