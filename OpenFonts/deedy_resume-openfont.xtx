@@ -124,7 +124,7 @@ Bioinformatics \\
 \location{Proficient:}
 Java \textbullet{} Python \textbullet{} CSS \textbullet{} HTML \\
 \location{Familiar:}
-C \textbullet{} C++ \textbullet{} Assembly \textbullet{} JavaScript \textbullet{} LaTeX \textbullet{} Bash \\
+C \textbullet{} C++ \textbullet{} Assembly \textbullet{} JavaScript \textbullet{} \LaTeX \textbullet{} Bash \\
 \location{Frameworks and tools:}
 Android \textbullet{} MySQL
 \textbullet{} ReactJS \textbullet{} Unix \textbullet{} MongoDB \textbullet{} REST \textbullet{} Redux
@@ -196,16 +196,24 @@ s, allowing users to measure evolutionary forces and predict trajectories of inf
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Database Project}
+\runsubsection{Self-Driving Simulation}
+\descript{| Machine Learning}
 \location {}
-implemented  k-means clustering algorithm in matlab to compress an image by reducing its color count to 16 by computing colors as cluster centroids and replacing each pixel with its nearest cluster ce
-ntroid color.
+\begin{tightemize}
+\item Developed a self-drving car model based on convolutional neural network with 27 million connections and 250 thousand parameters. 
+\item Used Keras on top of Tensor Flow as our machine learning API.
+	\item Accelerated training the model with steering angle and car camera datasets using Cloud TPU.
+\end{tightemize}
 \sectionsep
 
-\runsubsection{Self-Driving Simulation}
+\runsubsection{K-Means Clustering}
+\descript{| Image Compression}
 \location {}
-implemented  k-means clustering algorithm in matlab to compress an image by reducing its color count to 16 by computing colors as cluster centroids and replacing each pixel with its nearest cluster ce
-ntroid color.
+\begin{tightemize}
+\item implemented  k-means clustering algorithm in matlab 
+\item to compress an image by reducing its color count to 16
+\item by computing colors as cluster centroids and replacing each pixel with its nearest cluster centroid color.
+\end{tightemize}
 \sectionsep
 
 \end{minipage} 

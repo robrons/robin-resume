@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  8 SEP 2018 12:29
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  9 SEP 2018 10:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -935,9 +935,9 @@ LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/bx/n' undefined
 (Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 86.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 154.
+(Font)              <7> on input line 127.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 154.
+(Font)              <5> on input line 127.
 
 ! LaTeX Error: There's no line here to end.
 
@@ -958,28 +958,48 @@ Type  H <return>  for immediate help.
 l.192 \location {}
                   
 ? 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 212.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.201 \location {}
+                  
+? 
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.211 \location {}
+                  
+? 
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 220.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 212.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 220.
  (./deedy_resume-openfont.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 212.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 212.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 220.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 220.
 Package rerunfilecheck Info: File `deedy_resume-openfont.out' has not changed.
 (rerunfilecheck)             Checksum: F6758C72FE62860991688D27B6EA9A65.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 212.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 220.
  ) 
 Here is how much of TeX's memory you used:
- 19619 strings out of 492970
- 375498 string characters out of 6133938
- 479997 words of memory out of 5000000
- 23497 multiletter control sequences out of 15000+600000
- 530936 words of font info for 61 fonts, out of 8000000 for 9000
+ 19617 strings out of 492970
+ 375411 string characters out of 6133938
+ 480997 words of memory out of 5000000
+ 23496 multiletter control sequences out of 15000+600000
+ 530928 words of font info for 60 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  52i,11n,118p,10551b,517s stack positions out of 5000i,500n,10000p,200000b,80000s
 
