@@ -90,10 +90,6 @@ College of Engineering \\
 \location{ Cum. GPA: 3.9 / 4.0 }
 \sectionsep
 
-\subsection{United Indian School}
-\location{Grad. May 2014 | Jleeb Al-Shuyoukh, Kuwait}
-\sectionsep
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     LINKS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -102,31 +98,33 @@ College of Engineering \\
 Github:// \href{https://github.com/robrons}{\bf robrons} \\
 LinkedIn://  \href{https://www.linkedin.com/in/robinronson}{\bf robinronson} \\
 Portfolio://  \href{http://robrons.github.io}{\bf robrons.github.io} \\
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     COURSEWORK
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-\subsection{Undergraduate}
 Structures and Algorithms \\
 Operating Systems \\
 Intro. to Artificial Intelligence \\
 Bioinformatics \\
 {\footnotesize \textit{\textbf{(Research Asst.) }}} \\
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
-\subsection{Programming}
 \location{Proficient:}
-Java \textbullet{} Python \textbullet{} CSS \textbullet{} HTML \\
+Java \textbullet{} Python \textbullet{} HTML \textbullet{} CSS \textbullet{} \\ JavaScript\\
+\vspace{\topsep}
 \location{Familiar:}
-C \textbullet{} C++ \textbullet{} Assembly \textbullet{} JavaScript \textbullet{} \LaTeX \textbullet{} Bash \\
+C \textbullet{} C++ \textbullet{} Assembly \textbullet{} \LaTeX \textbullet{} Bash \\
+\vspace{\topsep}
 \location{Frameworks and tools:}
-Android \textbullet{} MySQL
+Android Studio\textbullet{} MySQL
 \textbullet{} ReactJS \textbullet{} Unix \textbullet{} MongoDB \textbullet{} REST \textbullet{} Redux
 \sectionsep
 
