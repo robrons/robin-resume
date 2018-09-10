@@ -48,6 +48,29 @@
 \documentclass[]{deedy-resume-openfont}
 \usepackage{fancyhdr}
  
+\usepackage{tikz}
+
+\newcommand{\ExternalLink}{%
+    \tikz[x=1.5ex, y=1.5ex, baseline=-0.00ex]{% 
+        \begin{scope}[x=1ex, y=1ex]
+            \clip (-0.1,-0.1) 
+                --++ (-0, 1.2) 
+                --++ (0.6, 0) 
+                --++ (0, -0.6) 
+                --++ (0.6, 0) 
+                --++ (0, -1);
+            \path[draw, 
+                line width = 0.5, 
+                rounded corners=0.5] 
+                (0,0) rectangle (1,1);
+        \end{scope}
+        \path[draw, line width = 0.5] (0.5, 0.5) 
+            -- (1, 1);
+        \path[draw, line width = 0.5] (0.6, 1) 
+            -- (1, 1) -- (1, 0.6);
+        }
+    }
+
 \pagestyle{fancy}
 \fancyhf{}
  
@@ -105,11 +128,15 @@ Portfolio://  \href{http://robrons.github.io}{\bf robrons.github.io} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-Structures and Algorithms \\
+Data Structures and Algorithms \\
 Operating Systems \\
 Intro. to Artificial Intelligence \\
 Bioinformatics \\
 {\footnotesize \textit{\textbf{(Research Asst.) }}} \\
+Machine Learning\\
+{\footnotesize \textit{\textbf{(Special Topics in CS) }}} \\
+Theory Of Automata \\	
+Discrete Computational Structures	
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -117,6 +144,8 @@ Bioinformatics \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
+\subsection{Programming}
+\vspace{\topsep}
 \location{Proficient:}
 Java \textbullet{} Python \textbullet{} HTML \textbullet{} CSS \textbullet{} \\ JavaScript\\
 \vspace{\topsep}
@@ -125,7 +154,7 @@ C \textbullet{} C++ \textbullet{} Assembly \textbullet{} \LaTeX \textbullet{} Ba
 \vspace{\topsep}
 \location{Frameworks and tools:}
 Android Studio\textbullet{} MySQL
-\textbullet{} ReactJS \textbullet{} Unix \textbullet{} MongoDB \textbullet{} REST \textbullet{} Redux
+\textbullet{} ReactJS \textbullet{} \\ Unix \textbullet{} MongoDB \textbullet{} REST \textbullet{} Redux
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -177,7 +206,6 @@ over the existing tool
 \runsubsection{TTU Biological Sciences Department}
 \descript{| Researcher}
 \location{May 2017 – Present | Lubbock, TX}
-\vspace{\topsep}
 \begin{tightemize}
 \item Working with \textbf{\href{https://amvbrown.com/}{Prof. Amanda M.V. Brown}} to create \textbf{DNAngler}, a Java pipeline used to iteratively improve phasing of strains from complex cellular assemblag
 s, allowing users to measure evolutionary forces and predict trajectories of infectious diseases.
@@ -194,7 +222,7 @@ s, allowing users to measure evolutionary forces and predict trajectories of inf
 
 \section{Projects}
 \runsubsection{Freeze-B-Gone}
-\descript{| Monitoring Progressive Web Application}
+\descript{| {\href{https://github.com/NilsG-S/antifreeze-front-end/}{Monitoring Progressive Web Application \ExternalLink}}} 
 \location{}
 \begin{tightemize}
 \item Set up push notification using service worker API for vital freeze warnings. 
@@ -204,7 +232,7 @@ s, allowing users to measure evolutionary forces and predict trajectories of inf
 \sectionsep
 
 \runsubsection{Gratis-Spot}
-\descript{| WiFi Hotspot Tracker}
+\descript{| {\href{https://github.com/robrons/Database-Project-WiFi-Hotspots-/}{ WiFi Hotspot Tracker \ExternalLink}}} 
 \location {}
 \begin{tightemize}
 \item Queried  Socrata Open Data API on free public WiFi coordinates, resulting in a 30\% increase in tracking in comparison to current standards.
@@ -213,7 +241,7 @@ s, allowing users to measure evolutionary forces and predict trajectories of inf
 \sectionsep
 
 \runsubsection{Self-Driving Simulation}
-\descript{| Neural Network}
+\descript{| {\href{https://github.com/robrons/Self-Driving-Simulation/}{ Neural Network \ExternalLink}}} 
 \location {}
 \begin{tightemize}
 \item Developed a self-drving car model based on convolutional neural network with 27 million connections and 250 thousand parameters. 
@@ -223,7 +251,7 @@ s, allowing users to measure evolutionary forces and predict trajectories of inf
 \sectionsep
 
 \runsubsection{Image Segmentation}
-\descript{| Unsupervised Learning}
+\descript{| {\href{https://github.com/robrons/K-means-Image-Compression/}{ Unsupervised Learning \ExternalLink}}} 
 \location {}
 \begin{tightemize}
 \item Used K-means for replacing each pixel with its nearest cluster centroid color resulting in 30\% size compression.
