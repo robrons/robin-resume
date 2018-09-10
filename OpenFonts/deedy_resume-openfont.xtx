@@ -197,7 +197,7 @@ s, allowing users to measure evolutionary forces and predict trajectories of inf
 \sectionsep
 
 \runsubsection{Self-Driving Simulation}
-\descript{| Machine Learning}
+\descript{| Neural Network}
 \location {}
 \begin{tightemize}
 \item Developed a self-drving car model based on convolutional neural network with 27 million connections and 250 thousand parameters. 
@@ -206,11 +206,11 @@ s, allowing users to measure evolutionary forces and predict trajectories of inf
 \end{tightemize}
 \sectionsep
 
-\runsubsection{K-Means Clustering}
-\descript{| Image Compression}
+\runsubsection{Image Segmentation}
+\descript{| Unsupervised Learning}
 \location {}
 \begin{tightemize}
-\item implemented  k-means clustering algorithm in matlab 
+\item Applied partial contrast stretching in order to improve output quality.  
 \item to compress an image by reducing its color count to 16
 \item by computing colors as cluster centroids and replacing each pixel with its nearest cluster centroid color.
 \end{tightemize}
