@@ -210,8 +210,8 @@ s, allowing users to measure evolutionary forces and predict trajectories of inf
 \descript{| Unsupervised Learning}
 \location {}
 \begin{tightemize}
-\item Applied partial contrast stretching in order to improve output quality.  
-\item to compress an image by reducing its color count to 16
+\item Used K-means to replacing each pixel with its nearest cluster centroid color.
+\item Applied partial contrast stretching in order to improve image quality.  
 \item by computing colors as cluster centroids and replacing each pixel with its nearest cluster centroid color.
 \end{tightemize}
 \sectionsep
