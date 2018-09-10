@@ -146,7 +146,7 @@ Android \textbullet{} MySQL
 
 \section{Experience}
 \runsubsection{Texas Tech HPCC}
-\descript{| Software Engineer }
+\descript{| Student Software Developer }
 \location{Jan 2018 - Present | Lubbock, TX}
 \vspace{\topsep}
 \begin{tightemize}
@@ -166,8 +166,13 @@ over the existing tool
 \runsubsection{TTU Biological Sciences Department}
 \descript{| Researcher}
 \location{May 2017 – Present | Lubbock, TX}
-Working with \textbf{\href{https://amvbrown.com/}{Prof. Amanda M.V. Brown}} to create \textbf{DNAngler}, a Java pipeline used to iteratively improve phasing of strains from complex cellular assemblag
+\vspace{\topsep}
+\begin{tightemize}
+\item Working with \textbf{\href{https://amvbrown.com/}{Prof. Amanda M.V. Brown}} to create \textbf{DNAngler}, a Java pipeline used to iteratively improve phasing of strains from complex cellular assemblag
 s, allowing users to measure evolutionary forces and predict trajectories of infectious diseases.
+\item \textbullet{} Reduced the dimensionality of the 12 dimensional dataset of mutagenesis using t-SNE 
+\item Visualized the dataset with the Embedding Projector included in TensorBoard
+\end{tightemize}
 \sectionsep
 
 \nocite{*}
@@ -210,9 +215,9 @@ s, allowing users to measure evolutionary forces and predict trajectories of inf
 \descript{| Unsupervised Learning}
 \location {}
 \begin{tightemize}
-\item Used K-means to replacing each pixel with its nearest cluster centroid color.
-\item Applied partial contrast stretching in order to improve image quality.  
-\item by computing colors as cluster centroids and replacing each pixel with its nearest cluster centroid color.
+\item Used K-means for replacing each pixel with its nearest cluster centroid color resulting in 30\% size compression.
+\item Applied partial contrast stretching in order to improve the image quality.  
+\item Median filter was applied to the segmented image to remove any unwanted noise or region. 
 \end{tightemize}
 \sectionsep
 
