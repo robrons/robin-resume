@@ -224,9 +224,9 @@ over the existing tool
 \descript{| {\href{https://github.com/NilsG-S/antifreeze-front-end/}{ Temperature Monitoring PWA \ExternalLink}}} 
 \location{}
 \begin{tightemize}
-\item Set up push notification using service worker API for vital freeze warnings. 
-\item Used websockets for real time monitoring of the temperature register by the Raspberry Pi device. 
-\item Utilized ReactJS and Redux for building the Front-end side of the web application in a team of 4. 
+\item Utilized ReactJS and Redux for building the Front-end side of the web application that monitors temperature near water pipes 
+\item Set up push notification using service worker API for vital freeze warnings 
+\item Used websockets for real time monitoring of the temperature register by the Raspberry Pi device 
 \end{tightemize}
 \sectionsep
 
@@ -234,8 +234,8 @@ over the existing tool
 \descript{| {\href{https://github.com/robrons/Database-Project-WiFi-Hotspots-/}{ WiFi Hotspot Tracker \ExternalLink}}} 
 \location {}
 \begin{tightemize}
-\item Queried  Socrata Open Data API on free public WiFi coordinates, resulting in a 30\% increase in tracking in comparison to current standards.
-\item Implemented Bucketing to find the nearest hotspots along a 5 mile radius based on GPS data. 
+\item Queried  Socrata Open Data API on free public WiFi coordinates, resulting in a 30\% increase in tracking in comparison to current standards
+\item Implemented Bucketing to find the nearest hotspots along a 5 mile radius based on GPS data 
 \end{tightemize}
 \sectionsep
 
@@ -243,9 +243,9 @@ over the existing tool
 \descript{| {\href{https://github.com/robrons/Self-Driving-Simulation/}{ Neural Network \ExternalLink}}} 
 \location {}
 \begin{tightemize}
-\item Developed a self-drving car model based on convolutional neural network with 27 million connections and 250 thousand parameters. 
-\item Used Keras on top of Tensor Flow as our machine learning API.
-	\item Accelerated training the model with steering angle and car camera datasets using Cloud TPU.
+\item Developed a self-drving car model based on convolutional neural network with 27 million connections and 250 thousand parameters 
+\item Used Keras on top of Tensor Flow as our machine learning API
+	\item Accelerated training the model with steering angle and car camera datasets using Cloud TPU
 \end{tightemize}
 \sectionsep
 
@@ -253,9 +253,9 @@ over the existing tool
 \descript{| {\href{https://github.com/robrons/K-means-Image-Compression/}{ Unsupervised Learning \ExternalLink}}} 
 \location {}
 \begin{tightemize}
-\item Used K-means for replacing each pixel with its nearest cluster centroid color resulting in 30\% size compression.
-\item Applied partial contrast stretching in order to improve the image quality.  
-\item Median filter was applied to the segmented image to remove any unwanted noise or region. 
+\item Used K-means for replacing each pixel with its nearest cluster centroid color resulting in 30\% size compression
+\item Applied partial contrast stretching in order to improve the image quality  
+\item Median filter was applied to the segmented image to remove any unwanted noise or region
 \end{tightemize}
 \sectionsep
 
