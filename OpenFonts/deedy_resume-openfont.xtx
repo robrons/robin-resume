@@ -1,50 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Deedy - One Page Two Column Resume
-% LaTeX Template
-% Version 1.2 (16/9/2014)
-%
-% Original author:
-% Debarghya Das (http://debarghyadas.com)
-%
-% Original repository:
-% https://github.com/deedydas/Deedy-Resume
-%
-% IMPORTANT: THIS TEMPLATE NEEDS TO BE COMPILED WITH XeLaTeX
-%
-% This template uses several fonts not included with Windows/Linux by
-% default. If you get compilation errors saying a font is missing, find the line
-% on which the font is used and either change it to a font included with your
-% operating system or comment the line out to use the default font.
-% 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% 
-% TODO:
-% 1. Integrate biber/bibtex for article citation under publications.
-% 2. Figure out a smoother way for the document to flow onto the next page.
-% 3. Add styling information for a "Projects/Hacks" section.
-% 4. Add location/address information
-% 5. Merge OpenFont and MacFonts as a single sty with options.
-% 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% CHANGELOG:
-% v1.1:
-% 1. Fixed several compilation bugs with \renewcommand
-% 2. Got Open-source fonts (Windows/Linux support)
-% 3. Added Last Updated
-% 4. Move Title styling into .sty
-% 5. Commented .sty file.
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-% Known Issues:
-% 1. Overflows onto second page if any column's contents are more than the
-% vertical limit
-% 2. Hacky space on the first bullet point on the second column.
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-
 \documentclass[]{deedy-resume-openfont}
 \usepackage{fancyhdr}
  
@@ -88,7 +41,7 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Robin}{Ronson}{ \urlstyle{same}\href{http://robrons96.github.io}{robinronson.com}| \href{http://fb.co/dd}{fb.co/dd}\\
+\namesection{Robin}{Ronson}{ \urlstyle{same}\href{http://robrons.github.io}{robrons.github.io }\\
 737.210.2279 | \href{mailto:robin.ronson@ttu.edu}{robin.ronson@ttu.edu}
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -110,7 +63,7 @@
 \descript{BS in Computer Science}
 \location{December 2018 | Lubbock, TX}
 College of Engineering \\
-\location{ Cum. GPA: 3.9 / 4.0 }
+\location{ GPA: 3.9 / 4.0 }
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -208,7 +161,7 @@ over the existing tool
 \location{May 2017 – Present | Lubbock, TX}
 \begin{tightemize}
 \item Working with \textbf{\href{https://amvbrown.com/}{Prof. Amanda M.V. Brown}} to create \textbf{DNAngler}, a Java pipeline allowing users to predict trajectories of infectious diseases
-\item Reduced the dimensionality of mutagenesis dataset using t-SNE, resulting in a clarified visual of malignant metastasis with TensorBoard 
+\item Reduced the dimensionality of DNA under mutagenesis dataset using t-SNE, resulting in a clarified visualization of malignant metastasis with TensorBoard 
 \item Wrote Bash script for constructing a 2D matrix of allele frequency vs. point mutation for transition analysis 
 \end{tightemize}
 \sectionsep
@@ -225,8 +178,8 @@ over the existing tool
 \location{}
 \begin{tightemize}
 \item Utilized ReactJS and Redux for building the Front-end side of a web application that monitors temperature near water pipes 
-\item Set up push notification using service worker API for vital freeze warnings 
-\item Used websockets for real time monitoring of the temperature register by the Raspberry Pi device 
+\item Set up push notifications using service worker API for vital freeze warnings 
+\item Established WebSocket connection between the web app and server for real time monitoring of the temperature registered by the Raspberry Pi device 
 \end{tightemize}
 \sectionsep
 
@@ -234,8 +187,8 @@ over the existing tool
 \descript{| {\href{https://github.com/robrons/Database-Project-WiFi-Hotspots-/}{ WiFi Hotspot Tracker \ExternalLink}}} 
 \location {}
 \begin{tightemize}
-\item Queried  Socrata Open Data API on free public WiFi coordinates, resulting in a 30\% increase in tracking in comparison to current standards
-\item Implemented Bucketing to find the nearest hotspots along a 5 mile radius based on GPS data 
+\item Queried  Socrata Open Data API, resulting in a 20\% increase in detection of free public WiFi coordinates, in comparison to current standards
+\item Implemented Bucketing to find the nearest hotspots along a 5 mile radius based on the GPS data 
 \end{tightemize}
 \sectionsep
 
@@ -244,8 +197,8 @@ over the existing tool
 \location {}
 \begin{tightemize}
 \item Developed a self-drving car model based on convolutional neural network with 27 million connections and 250 thousand parameters 
-\item Used Keras on top of Tensor Flow as our machine learning API
-	\item Accelerated training the model with steering angle and car camera datasets using Cloud TPU
+\item Used Keras on top of Tensor Flow as the machine learning API
+\item Accelerated training the model with steering angle and car camera datasets using Cloud TPU
 \end{tightemize}
 \sectionsep
 
@@ -253,7 +206,7 @@ over the existing tool
 \descript{| {\href{https://github.com/robrons/K-means-Image-Compression/}{ Unsupervised Learning \ExternalLink}}} 
 \location {}
 \begin{tightemize}
-\item Used K-means for replacing each pixel with its nearest cluster centroid color resulting in 30\% size compression
+\item Used K-means for replacing each pixel with its nearest cluster centroid color resulting in a 30\% size compression
 \item Applied partial contrast stretching in order to improve the image quality  
 \item Median filter was applied to the segmented image to remove any unwanted noise or region
 \end{tightemize}
