@@ -224,7 +224,7 @@ over the existing tool
 \descript{| {\href{https://github.com/NilsG-S/antifreeze-front-end/}{ Temperature Monitoring PWA \ExternalLink}}} 
 \location{}
 \begin{tightemize}
-\item Utilized ReactJS and Redux for building the Front-end side of the web application that monitors temperature near water pipes 
+\item Utilized ReactJS and Redux for building the Front-end side of a web application that monitors temperature near water pipes 
 \item Set up push notification using service worker API for vital freeze warnings 
 \item Used websockets for real time monitoring of the temperature register by the Raspberry Pi device 
 \end{tightemize}
