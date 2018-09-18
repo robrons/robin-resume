@@ -41,8 +41,8 @@
 %     TITLE NAME
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\namesection{Robin}{Ronson}{ \urlstyle{same}\href{http://robrons.github.io}{robrons.github.io }\\
-737.210.2279 | \href{mailto:robin.ronson@ttu.edu}{robin.ronson@ttu.edu}
+\namesection{Robin}{Ronson}{ \urlstyle{same}\href{http://robrons.github.io}{robrons.github.io }| 737.210.2279\\
+\href{mailto:robin.ronson@ttu.edu}{robin.ronson@ttu.edu} | 1012 Boston Ave, Lubbock, TX 79409 \\
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -81,7 +81,6 @@ Portfolio://  \href{http://robrons.github.io}{\bf robrons.github.io} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-Data Structures and Algorithms \\
 Operating Systems \\
 Intro. to Artificial Intelligence \\
 Bioinformatics \\
@@ -89,7 +88,8 @@ Bioinformatics \\
 Machine Learning\\
 {\footnotesize \textit{\textbf{(Special Topics in CS) }}} \\
 Theory Of Automata \\	
-Discrete Computational Structures	
+Discrete Computational Structures \\	
+Object-Oriented Programming \\	
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -100,14 +100,14 @@ Discrete Computational Structures
 \subsection{Programming}
 \vspace{\topsep}
 \location{Proficient:}
-Java \textbullet{} Python \textbullet{} HTML \textbullet{} CSS \textbullet{} \\ JavaScript\\
+\textbf{Java \textbullet{} Python \textbullet{} HTML \textbullet{} CSS \textbullet{} \\ JavaScript\\}
 \vspace{\topsep}
 \location{Familiar:}
-C \textbullet{} C++ \textbullet{} Assembly \textbullet{} \LaTeX \textbullet{} Bash \\
+\textbf{C \textbullet{} C++ \textbullet{} Assembly \textbullet{} \LaTeX \textbullet{} Bash \\}
 \vspace{\topsep}
 \location{Frameworks and tools:}
-Android Studio\textbullet{} MySQL
-\textbullet{} ReactJS \textbullet{} \\ Unix \textbullet{} MongoDB \textbullet{} REST \textbullet{} Redux
+\textbf{Android Studio\textbullet{} MySQL
+\textbullet{} ReactJS \textbullet{} \\ UNIX \textbullet{} MongoDB \textbullet{} REST \textbullet{} Redux}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -119,7 +119,7 @@ Android Studio\textbullet{} MySQL
 \location{\it Topic: Performance gains in Redfish Conformance Checker Tool}
 \vspace{\topsep}
 \descript{DISCL Research Seminar}
-\location{\it Topic: Upcoming speaker on RESTful API testing and inference}
+\location{\it Topic: Upcoming speaker on \textbf{RESTful} API testing and inference}
 \sectionsep
 
 
@@ -143,10 +143,10 @@ Android Studio\textbullet{} MySQL
 \location{Jan 2018 - Present | Lubbock, TX}
 \vspace{\topsep}
 \begin{tightemize}
-\item Incremental development of a Python-based, API-driven test automation tool for \textbf{\href{https://redfish.dmtf.org/about}{Redfish®}}
-\item Developed a caching mechanism to store HTTP GET requests using JSON serialization, resulting in a $\approx$ 50x speed improvement
+\item Incremental development of a \textbf{Python}-based, API-driven \textbf{test automation} tool for \textbf{\href{https://redfish.dmtf.org/about}{Redfish®}}
+\item Developed a caching mechanism to store \textbf{HTTP} GET requests using \textbf{JSON} serialization, resulting in a $\approx$ 50x speed improvement
 over the existing tool
-\item Rebuilt the tool's log representation feature using Angular and Material Design, which led to the easier identification of assertion failures
+\item Rebuilt the tool's log representation feature using \textbf{Angular} and \textbf{Material Design}, which led to the easier identification of assertion failures
 \end{tightemize}
 \sectionsep
 
@@ -160,9 +160,9 @@ over the existing tool
 \descript{| Researcher}
 \location{May 2017 – Present | Lubbock, TX}
 \begin{tightemize}
-\item Working with \textbf{\href{https://amvbrown.com/}{Prof. Amanda M.V. Brown}} to create \textbf{DNAngler}, a Java pipeline allowing users to predict trajectories of infectious diseases
-\item Reduced the dimensionality of DNA under mutagenesis dataset using t-SNE, resulting in a clarified visualization of malignant metastasis with TensorBoard 
-\item Wrote Bash script for constructing a 2D matrix of allele frequency vs. point mutation for transition analysis 
+\item Working with \textbf{\href{https://amvbrown.com/}{Prof. Amanda M.V. Brown}} to create \textbf{DNAngler}, a \textbf{Java} pipeline allowing users to predict trajectories of infectious diseases
+\item Reduced the dimensionality of DNA under mutagenesis dataset using t-SNE, resulting in a clarified visualization of malignant metastasis with \textbf{TensorBoard} 
+\item Wrote \textbf{Bash} script for constructing a 2D matrix of allele frequency vs. point mutation for transition analysis 
 \end{tightemize}
 \sectionsep
 
@@ -177,9 +177,9 @@ over the existing tool
 \descript{| {\href{https://github.com/NilsG-S/antifreeze-front-end/}{ Temperature Monitoring PWA \ExternalLink}}} 
 \location{}
 \begin{tightemize}
-\item Utilized ReactJS and Redux for building the Front-end side of a web application that monitors temperature near water pipes 
-\item Set up push notifications using service worker API for vital freeze warnings 
-\item Established WebSocket connection between the web app and server for real time monitoring of the temperature registered by the Raspberry Pi device 
+\item Utilized \textbf{ReactJS} and \textbf{Redux} for building the \textbf{Front-end} side of a web application that monitors temperature near water pipes 
+\item Set up \textbf{push notifications} using service worker API for vital freeze warnings 
+\item Established \textbf{WebSocket} connection between the web app and server for real time monitoring of the temperature registered by the Raspberry Pi device 
 \end{tightemize}
 \sectionsep
 
@@ -196,8 +196,8 @@ over the existing tool
 \descript{| {\href{https://github.com/robrons/Self-Driving-Simulation/}{ Neural Network \ExternalLink}}} 
 \location {}
 \begin{tightemize}
-\item Developed a self-drving car model based on convolutional neural network with 27 million connections and 250 thousand parameters 
-\item Used Keras on top of Tensor Flow as the machine learning API
+\item Developed a self-drving car model based on \textbf{convolutional neural network} with 27 million connections and 250 thousand parameters 
+\item Used \textbf{Keras} on top of \textbf{TensorFlow} as the \textbf{machine learning} API
 \item Accelerated training the model with steering angle and car camera datasets using Cloud TPU
 \end{tightemize}
 \sectionsep
@@ -206,7 +206,7 @@ over the existing tool
 \descript{| {\href{https://github.com/robrons/K-means-Image-Compression/}{ Unsupervised Learning \ExternalLink}}} 
 \location {}
 \begin{tightemize}
-\item Used K-means for replacing each pixel with its nearest cluster centroid color resulting in a 30\% size compression
+\item Used \textbf{K-means} for replacing each pixel with its nearest cluster centroid color resulting in a 30\% size compression
 \item Applied partial contrast stretching in order to improve the image quality  
 \item Median filter was applied to the segmented image to remove any unwanted noise or region
 \end{tightemize}
