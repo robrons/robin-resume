@@ -116,10 +116,10 @@ Object-Oriented Programming \\
 
 \section{Conferences}
 \descript{DMTF Technical Symposium}
-\location{\it Topic: Performance gains in Redfish Conformance Checker Tool}
+\location{Topic: Performance gains in Redfish Conformance Checker Tool}
 \vspace{\topsep}
 \descript{DISCL Research Seminar}
-\location{\it Topic: Upcoming speaker on \textbf{RESTful} API testing and inference}
+\location{Topic: Speaker on RESTful API testing and inference}
 \sectionsep
 
 
@@ -155,7 +155,6 @@ over the existing tool
 %     RESEARCH
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Research}
 \runsubsection{TTU Biological Sciences Department}
 \descript{| Researcher}
 \location{May 2017 – Present | Lubbock, TX}
