@@ -103,11 +103,11 @@ Object-Oriented Programming \\
 \textbf{Java \textbullet{} Python \textbullet{} HTML \textbullet{} CSS \textbullet{} \\ JavaScript\\}
 \vspace{\topsep}
 \location{Familiar:}
-\textbf{C \textbullet{} C++ \textbullet{} Assembly \textbullet{} \LaTeX \textbullet{} Bash \\}
+\textbf{C \textbullet{} C++ \textbullet{} Assembly \textbullet{} R \textbullet{} Bash \\}
 \vspace{\topsep}
 \location{Frameworks and tools:}
-\textbf{Android Studio\textbullet{} MySQL
-\textbullet{} ReactJS \textbullet{} \\ UNIX \textbullet{} MongoDB \textbullet{} REST \textbullet{} Redux}
+\textbf{Android Studio \textbullet{} MySQL
+\textbullet{} ReactJS \textbullet{} \\ UNIX \textbullet{} MongoDB \textbullet{} REST \textbullet{} Google Cloud Platform \textbullet{} Redux}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -143,10 +143,10 @@ Object-Oriented Programming \\
 \location{Jan 2018 - Present | Lubbock, TX}
 \vspace{\topsep}
 \begin{tightemize}
-\item Incremental development of a \textbf{Python}-based, API-driven \textbf{test automation} tool for \textbf{\href{https://redfish.dmtf.org/about}{Redfish®}}
+\item Upgraded a \textbf{Python}-based, API-driven \textbf{test automation} tool for \textbf{\href{https://redfish.dmtf.org/about}{Redfish®}}
 \item Developed a caching mechanism to store \textbf{HTTP} GET requests using \textbf{JSON} serialization, resulting in a $\approx$ 50x speed improvement
 over the existing tool
-\item Rebuilt the tool's log representation feature using \textbf{Angular} and \textbf{Material Design}, which led to the easier identification of assertion failures
+\item Rebuilt the tool's log representation feature using \textbf{Angular} and \textbf{Material Design}, which led the easier identification of assertion failures
 \end{tightemize}
 \sectionsep
 
@@ -176,7 +176,7 @@ over the existing tool
 \descript{| {\href{https://github.com/NilsG-S/antifreeze-front-end/}{ Temperature Monitoring PWA \ExternalLink}}} 
 \location{}
 \begin{tightemize}
-\item Utilized \textbf{ReactJS} and \textbf{Redux} for building the \textbf{Front-end} side of a web application that monitors temperature near water pipes 
+\item Utilized \textbf{ReactJS} and \textbf{Redux} for building the \textbf{front-end} side of a web application that monitors temperature near water pipes 
 \item Set up \textbf{push notifications} using service worker API for vital freeze warnings 
 \item Established \textbf{WebSocket} connection between the web app and server for real time monitoring of the temperature registered by the Raspberry Pi device 
 \end{tightemize}
