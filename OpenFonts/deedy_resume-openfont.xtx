@@ -101,14 +101,16 @@ Object-Oriented Programming \\
 \subsection{Programming}
 \vspace{\topsep}
 \location{Proficient:}
-\textbf{Java \textbullet{} Python \textbullet{} HTML \textbullet{} CSS \textbullet{} \\ JavaScript\\}
+\textbf{Java \textbullet{} Python \textbullet{} HTML5 \textbullet{} CSS \textbullet{} \\ JavaScript\\}
 \vspace{\topsep}
 \location{Familiar:}
 \textbf{C \textbullet{} C++ \textbullet{} Assembly \textbullet{} R \textbullet{} Bash \\}
 \vspace{\topsep}
 \location{Frameworks and tools:}
 \textbf{Android Studio \textbullet{} MySQL
-\textbullet{} ReactJS \textbullet{} \\ UNIX \textbullet{} MongoDB \textbullet{} REST \textbullet{} Google Cloud Platform \textbullet{} Redux \textbullet{} Express}
+\textbullet{} ReactJS \textbullet{} \\ UNIX \textbullet{} MongoDB \textbullet{} REST \textbullet{} GCP \textbullet{} Redux \textbullet{} ExpressJS \textbullet{} Bootstrap 4 
+\textbullet{} NodeJS \textbullet{} TensorFlow \textbullet{} Keras \textbullet{} AWS \textbullet{} Git
+}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -139,13 +141,15 @@ Object-Oriented Programming \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Texas Tech CISER}
+\runsubsection{Texas Tech University}
 \descript{| Full Stack Developer }
 \location{Jun 2019 - Present | Lubbock, TX}
 \vspace{\topsep}
 \begin{tightemize}
-\item Leveraged \textbf{ReactJS} resources to build a single page web application that handles form submissions, user tracking and data uploads 
-\item Architected and Developed a \textbf{RESTful API} with the use of the complete \textbf{MERN Stack} in order to handle data storage and automated mailer system
+\item Spearheaded transition from SharePoint platform to \textbf{MEARN} stack, reducing latency by 40\% and increasing database admin effectiveness by 20\%
+\item Revamped UI and app interface using \textbf{Bootstrap 4} for applicant-facing advertisement site leading to 10,000 extra new user visits per month
+\item Developed full-stack \textbf{ReactJS} based web applications which processed, analyzed, and rendered user data visually
+\item Managed time-sensitive updates, including content changes and database upgrades to \textbf{MongoDB}
 \end{tightemize}
 \sectionsep
 
