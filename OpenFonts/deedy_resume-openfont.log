@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.20)  13 DEC 2018 11:33
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.10.20)  31 AUG 2019 15:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1212,9 +1212,9 @@ LaTeX Font Warning: Font shape `TU/Lato-Bol(0)/bx/n' undefined
 (Font)              using `TU/Lato-Bol(0)/m/n' instead on input line 62.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 147.
+(Font)              <7> on input line 157.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 147.
+(Font)              <5> on input line 157.
 
 ! LaTeX Error: There's no line here to end.
 
@@ -1222,7 +1222,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.177 \location{}
+l.187 \location{}
                  
 ? 
 
@@ -1232,17 +1232,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.187 \location {}
-                  
-? 
-
-! LaTeX Error: There's no line here to end.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.196 \location {}
+l.197 \location {}
                   
 ? 
 
@@ -1258,16 +1248,16 @@ l.206 \location {}
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 215.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
  (./deedy_resume-openfont.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 215.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 215.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 216.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 216.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 215.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
  ) 
 Here is how much of TeX's memory you used:
  29219 strings out of 494988

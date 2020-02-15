@@ -63,6 +63,7 @@
 \descript{BS in Computer Science}
 \location{December 2018 | Lubbock, TX}
 College of Engineering \\
+Summa Cum Laude \\
 \location{ GPA: 3.9 / 4.0 }
 \sectionsep
 
@@ -107,7 +108,7 @@ Object-Oriented Programming \\
 \vspace{\topsep}
 \location{Frameworks and tools:}
 \textbf{Android Studio \textbullet{} MySQL
-\textbullet{} ReactJS \textbullet{} \\ UNIX \textbullet{} MongoDB \textbullet{} REST \textbullet{} Google Cloud Platform \textbullet{} Redux}
+\textbullet{} ReactJS \textbullet{} \\ UNIX \textbullet{} MongoDB \textbullet{} REST \textbullet{} Google Cloud Platform \textbullet{} Redux \textbullet{} Express}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -138,10 +139,19 @@ Object-Oriented Programming \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Texas Tech HPCC}
-\descript{| Student Software Developer }
-\location{Jan 2018 - Present | Lubbock, TX}
+\runsubsection{Texas Tech CISER}
+\descript{| Full Stack Developer }
+\location{Jun 2019 - Present | Lubbock, TX}
 \vspace{\topsep}
+\begin{tightemize}
+\item Leveraged \textbf{ReactJS} resources to build a single page web application that handles form submissions, user tracking and data uploads 
+\item Architected and Developed a \textbf{RESTful API} with the use of the complete \textbf{MERN Stack} in order to handle data storage and automated mailer system
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Texas Tech HPCC}
+\descript{| Software Developer }
+\location{Jan 2018 - Dec 2018 | Lubbock, TX}
 \begin{tightemize}
 \item Upgraded a \textbf{Python}-based, API-driven \textbf{test automation} tool for \textbf{\href{https://redfish.dmtf.org/about}{Redfish®}}
 \item Developed a caching mechanism to store \textbf{HTTP} GET requests using \textbf{JSON} serialization, resulting in a $\approx$ 50x speed improvement
@@ -157,9 +167,9 @@ over the existing tool
 
 \runsubsection{TTU Biological Sciences Department}
 \descript{| Researcher}
-\location{May 2017 – Present | Lubbock, TX}
+\location{May 2017 – Dec 2018 | Lubbock, TX}
 \begin{tightemize}
-\item Working with \textbf{\href{https://amvbrown.com/}{Prof. Amanda M.V. Brown}} to create \textbf{DNAngler}, a \textbf{Java} pipeline allowing users to predict trajectories of infectious diseases
+\item Worked with \textbf{\href{https://amvbrown.com/}{Prof. Amanda M.V. Brown}} to create \textbf{DNAngler}, a \textbf{Java} pipeline allowing users to predict trajectories of infectious diseases
 \item Reduced the dimensionality of DNA under mutagenesis dataset using t-SNE, resulting in a clarified visualization of malignant metastasis with \textbf{TensorBoard} 
 \item Wrote \textbf{Bash} script for constructing a 2D matrix of allele frequency vs. point mutation for transition analysis 
 \end{tightemize}
@@ -201,15 +211,6 @@ over the existing tool
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Image Segmentation}
-\descript{| {\href{https://github.com/robrons/K-means-Image-Compression/}{ Unsupervised Learning \ExternalLink}}} 
-\location {}
-\begin{tightemize}
-\item Used \textbf{K-means} for replacing each pixel with its nearest cluster centroid color resulting in a 30\% size compression
-\item Applied partial contrast stretching in order to improve the image quality  
-\item Median filter was applied to the segmented image to remove any unwanted noise or region
-\end{tightemize}
-\sectionsep
 
 \end{minipage} 
 \end{document}  \documentclass[]{article}
