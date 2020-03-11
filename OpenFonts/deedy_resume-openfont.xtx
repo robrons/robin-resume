@@ -42,7 +42,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Robin}{Ronson}{ \urlstyle{same}\href{http://robrons.github.io}{robrons.github.io }| 737.210.2279\\
-\href{mailto:robin.ronson@ttu.edu}{robin.ronson@ttu.edu} | 1012 Boston Ave, Lubbock, TX 79409 \\
+\href{mailto:robintronson1@gmail.com}{robintronson1@gmail.com} | 1012 Boston Ave, Lubbock, TX 79409 \\
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -146,8 +146,7 @@ Object-Oriented Programming \\
 \location{Jun 2019 - Present | Lubbock, TX}
 \vspace{\topsep}
 \begin{tightemize}
-\item Spearheaded transition from SharePoint platform to \textbf{MEARN} stack, reducing latency by 40\% and increasing database admin effectiveness by 20\%
-\item Revamped UI and app interface using \textbf{Bootstrap 4} for applicant-facing advertisement site leading to 10,000 extra new user visits per month
+\item Spearheaded the transition from SharePoint platform to \textbf{MERN} stack, reducing latency by 40\% and increasing database admin effectiveness
 \item Developed full-stack \textbf{ReactJS} based web applications which processed, analyzed, and rendered user data visually
 \item Managed time-sensitive updates, including content changes and database upgrades to \textbf{MongoDB}
 \end{tightemize}
